@@ -1,8 +1,8 @@
 # ⚠️ If hosting under a repo path, use full URL (e.g. https://<github_username>.github.io/<repo_name>) or images won’t display correctly
 baseURL: https://hugo-themes.github.io/toha-example-site/
 
-languageCode: bn
-title: "John's Blog"
+languageCode: de
+title: "Olaf Blog and Portfolio"
 
 # Use Hugo modules to add theme
 module:
@@ -24,12 +24,12 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "John's Blog"
+    title: "Olaf's Blog"
     weight: 1
-  bn:
-    languageCode: bn
-    languageName: বাংলা
-    title: জনের ব্লগ
+  de:
+    languageCode: de
+    languageName: Deutsch
+    title: Olaf Ngo
     weight: 2
 # default language for the content
 defaultContentLanguage: en
@@ -105,11 +105,11 @@ params:
       showAuthor: true # shows the author of post (defaults true)
       # Share post on different social media
       shareButtons:
-        facebook: true
-        twitter: true
+        #facebook: true
+        #x: true
         linkedin: true
-        reddit: true
-        whatsapp: true
+        #reddit: true
+        #whatsapp: true
         email: true
         # tumblr: true
         # pocket: true
@@ -156,7 +156,7 @@ params:
 
     # Enable Analytics
     analytics:
-      enable: true
+      enable: false
       services:
         # Google Analytics
         google:

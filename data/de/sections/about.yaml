@@ -1,7 +1,7 @@
 # section information
 section:
-  name: About
-  id: about
+  name: Über
+  id: ueber-mich
   enable: true
   weight: 1
   showOnNavbar: true

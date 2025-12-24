@@ -37,9 +37,9 @@ socialLinks:
   icon: "fab fa-linkedin"
   url: "#"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
+# - name: x
+#   icon: "fab fa-x"
+#   url: "#"
 
 - name: Facebook
   icon: "fab fa-facebook"
