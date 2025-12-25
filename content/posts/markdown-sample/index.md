@@ -8,8 +8,8 @@ menu:
     identifier: markdown
     weight: 30
 author:
-  name: Jessica Jonas
-  image: /images/author/jessica.png
+  name: Olaf
+  image: /images/author/avatar.png
 math: true
 ---
 

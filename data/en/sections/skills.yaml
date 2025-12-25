@@ -17,8 +17,8 @@ buttons:
   filter: "basic"
 - name: Language
   filter: "language"
-- name: Container
-  filter: "container"
+- name: DevOps
+  filter: "devops"
 - name: Others
   filter: "others"
 
@@ -35,19 +35,37 @@ skills:
 
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
-  categories: ["others"]
+  summary: "Worked with most of the major clouds such as Azure, GCP, SAP BTP, AWS, and Aliyun"
+  categories: ["basic"]
 
-- name: FinOps
-  logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+- name: IT Architecture
+  #logo: /images/sections/skills/git.png
+  summary: "Experienced with designing and executing solution architectures."
   categories: ["basic"]
   url: "https://git-scm.com/"
+
+
+- name: FinOps
+  logo: /images/sections/skills/finops.png
+  summary: "Experienced management and optimization of Cloud costs by managing a Cloud CoE and applying the FinOps framework"
+  categories: ["basic"]
+  url: "https://git-scm.com/"
+
+- name: Dashboarding / Reporting
+#  logo: /images/sections/skills/finops.png
+  summary: "Building and assembling dashboards for financial reporting using Looker Studio, PowerBI and Apptio BI"
+  categories: ["basic"]
+#  url: "https://git-scm.com/"
+
+- name: Infrastructure as Code
+  logo: /images/sections/skills/cloud.png
+  summary: "I can write OpenTofu/Terraform, Cloudformation and Azure RM templates and apply a modular approach for reusability and scale."
+  categories: ["devops"]
 
 - name: Containerization 
   logo: /images/sections/skills/docker.svg
   summary: "Writes and transforms applications into cloud-ready compute on containers. Be it Docker, Compose or Kubernetes, I have seen and used it all."
-  categories: ["container"]
+  categories: ["devops"]
   url: "https://www.docker.com/"
 
 # - name: Prometheus
@@ -56,21 +74,21 @@ skills:
 #   categories: ["basic"]
 #   url: "https://prometheus.io/"
 
-- name: Linux
+- name: Linux Virtualization
   logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
-  categories: ["others"]
+  summary: "Using as the main operating system for servers and container workloads. Capable of managing Linux systems and KVM based hypervisors (e.g. Proxmox)."
+  categories: ["devops"]
 
 - name: Kubernetes
   logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  categories: ["container"]
+  summary: "Capable of deploying, managing application on Kubernetes. Experienced deploying Kubernetes applications and clusters (AKS, EKS, GKE, RKE2, K3S, RHOCP)"
+  categories: ["devops"]
   url: "https://kubernetes.io/"
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  categories: ["basic"]
+  summary: "Experienced with git-based development with different branching, merging strategies and CI/CD strategies. Mostly, use GitLab. Also, have experience in working with GitLab."
+  categories: ["others"]
   url: "https://git-scm.com/"
 
 # - name: C++
@@ -80,26 +98,26 @@ skills:
 
 
 - name: Vietnamese
-  logo: /images/sections/skills/cloud.png
+  #logo: /images/sections/skills/cloud.png
   summary: "Mother language"
   categories: ["language"]
 
 - name: German
-  logo: /images/sections/skills/cloud.png
+  #logo: /images/sections/skills/cloud.png
   summary: "De-facto mother language as I'm born and grew up in Germany"
   categories: ["language"]
 
 - name: English
-  logo: /images/sections/skills/cloud.png
+  #logo: /images/sections/skills/cloud.png
   summary: "business fluent, worked in many international contexts"
   categories: ["language"]
 
 - name: Korean
-  logo: /images/sections/skills/cloud.png
-  summary: "Studied Korean in exchange semester. Passed TOPIK level 3 exam (long time ago)"
+  #logo: /images/sections/skills/cloud.png
+  summary: "Studied Korean in exchange semester. Passed TOPIK level 3 exam (2011)"
   categories: ["language"]
 
 - name: Chinese
-  logo: /images/sections/skills/cloud.png
-  summary: "Learned Mandarin during university and went to Summer School. Passed HSK level 3 exam (long time ago)"
+  #logo: /images/sections/skills/cloud.png
+  summary: "Learned Mandarin during university and went to Summer School. Passed HSK level 3 exam (2009)"
   categories: ["language"]

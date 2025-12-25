@@ -14,60 +14,154 @@ experiences:
     name: OBI Smart Technologies
     url: "https://www.obi.de"
     location: Cologne (full remote)
-    logo: /images/sections/experiences/company1.jpg
+    logo: /images/sections/experiences/OBI_Logo_Fahne_4c.jpg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company1.jpg
     # company overview
-    overview: OBI is an European home improvement and DIY retailer. They strive to become the no. 1 in Home and Gardening.
+    overview: OBI is an European home improvement and DIY retailer. Their mission if to become the no. 1 destination for Home and Gardening. OBI Smart Technologies is the tech company of OBI and 100% part of the OBI Group. 
   positions:
-  - designation: Senior Infrastructure Designer
+  - designation: Datacenter and Cloud Infrastucture - Senior Designer 
     start: Nov 2025
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Elaborate and collect requirements for a modern private and edge cloud deployment 
+    - Work with experts in the domains storage, hypervisor, backup and automation to design a blueprint for the private cloud
+    - Active participation in POCs with different vendor stacks (e.g. Nutanix, Cisco/VMWare and AWS)
+    - Discussions and explorations with different vendors (e.g. AWS) in the feasibility of a stack deployment
+    - As owner, lead the handover of the landing zone to the team after large organizational restructuring 
 
-  - designation: Senior DevOps Engineer
+  - designation: Cloud Department - Senior DevOps Engineer
     start: Jul 2024
     end: Nov 2025
     responsibilities:
-    - I am guiding teams on their cloud journey according to best practices on Cloud including cost optimization with FinOps. When I’m not doing field work, I work on the multi-cloud strategy and consult our platform team to run a better cloud platform product by improving the developer experience and platform consistency. I am also responsible for the overall FinOps strategy and implementation at OBI, including the integration of our cloud platforms into our existing processes and tools. I work closely with our financial stakeholders to ensure that we have a clear understanding of our cloud costs and can optimize them effectively.
+    - "Implementation of the FinOps framework - selection of the tool provider, manage the engagement with the ISV and within a time frame of 3 months to implement the tool for OBI. Result : Realized all possible recommended savings detected in our vendor QBR"
+    - Governed and rewrote the Cloud Policy - a binding document for all users of the cloud accounts and guiding document for the internal auditing.
+    - Takeover and redesign of the Azure Landing Zones. Worked with Microsoft on improving the resiliency and closing best practice gaps for the platform. 
+    - Design and implementation of the GCP Landing Zone. Managed the engagement with Google PSO.     
+    - I am guiding teams on their cloud journey according to best practices on Cloud including cost optimization with FinOps. 
+    - When I’m not doing field work, I work on the multi-cloud strategy and consult our platform team to run a better cloud platform product by improving the developer experience and platform consistency. I am also responsible for the overall FinOps strategy and implementation at OBI, including the integration of our cloud platforms into our existing processes and tools. I work closely with our financial stakeholders to ensure that we have a clear understanding of our cloud costs and can optimize them effectively.
 
 
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    logo: /images/sections/experiences/company2.jpg
+    name: Henkel AG & Co KgaA
+    url: "https://www.henkel.com"
+    location: Düsseldorf
+    logo: /images/sections/experiences/Henkel_Standard_Logo_Red.webp
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company2.jpg
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    overview: Henkel is a multinational, global leader in the adhesives and consumer products industry and part of the DAX40. Iconic brands such as Persil, Loctite, Pritt, Schwarzkopf and Syoss belong to the portfolio. 
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Program Lead Hybrid Cloud
+    start: April 2021
+    end: June 2024
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Project leader for the Skywalker Program (10 internal FTE, budget > 5M USD)
+    - Business Case Management of the entire ramp-up and transition into the new cloud operating model
+    - Management of the migration of workloads into the new setup
+    - Participation and support in vendor negotiations for a multi-million contract renewal of a public cloud provider
+    - Definition of a workload placement strategy across all platforms 
+    - Build up of the Landing Zones for GCP with team and PSO, RedHat OpenShift Platform with team and Red Hat Consulting 
+    - Several RfPs for selection of hardware partner in Private Cloud and implementation partner for landing zone build
+    - Roadmap definition of the Hybrid Cloud Program over the next 5 years
+    - Stakeholder management and project communications via Townhalls, migration round tables, developer team sessions in the Berlin dx Hub and liaising with partners
+    - Part of the dx Global Infrastructure Leadership team since 05/2023
+    - Passed IDC assessments and receeived strong annual review results; nominated as Hi-Po of the department 
+  - designation: SPARC program - DevOps Team Lead 
+    start: March 2020
+    end: May 2021
+    responsibilities:
+    - Architectural and development lead of Henkel's yet [largest custom TPM implementation](https://news.sap.com/germany/2022/04/digitalisierung-henkel-optimiert-verkaufsfoerderung-mit-sap-btp-business-technology-platform/), 5 internal FTE, more than 4000 devlopment PD
+    - Counterpart to the external development and architecture team, guidance of up to 50 developers in peak phase of first release cycle
+    - I have set development standards, introduced CI/CD and package / artifact management into the program
+    - Management of the entire SAP BTP landscape and all HANA cloud instances (up to 1 TB) using HANA Cockpit and other tools from the BTP stack. 
+  - designation: Senior Cloud Solutions Architect
+    start: April 2020
+    end: June 2024
+    responsibilities:
+    - Participation in the redesign and improvement of the Azure Landing Zone for [enhancing developer experience with a partner](https://www.skaylink.com/de/case-studies/henkels-devops-triumph/)
+    - Architectural Consulting and support of teams, initiative and workloads moving into the Cloud (mainly Azure) in the area of document management, [industrial IoT](https://www.henkel-adhesives.com/de/de/branchen/industrielle-wartung-und-reparatur/mro-loctite-pulse.html), marketing site hosting, tooling for SHE
+    - Platform and solution consulting on Google Cloud to redesign a native information portal for [technical data sheets (tdx)](https://www.henkel-adhesives.com/ch/de/%C3%BCber-uns/how-to-find-tds.html)   
+    - Worked on internal initiatives to improve the documentation ([Cloud Docs](http://docs.henkelgroup.cloud/)), approaches (use of IaC across the platform) and fostering enablement of members of the Community of Practice. 
+    - Founding member of the Cloud Architecture Team.
 
 - company:
-    name: Intern Counting Company (ICC).
+    name: Bayer Business Services GmbH (100 % Bayer AG)
+    url: "https://www.bayer.com"
+    location: Leverkusen, Germany
+    logo:   /images/sections/experiences/Logo_Bayer.png
+    overview: Bayer is a global life sciences company consisting divisions for RX Pharmaceuticals, OTC Consumer Pharma and Crop Protection and Seedss business 
+  positions:
+  - designation: Cloud Solution Architect
+    start: Jan 2019
+    end: March 2020
+    responsibilities:
+    - Worked in a stream of the Postmerger integration of Monsanto's IT into Bayer
+    - Worked as key infrasteructure architect in Global API Management Platform project, where we introduced the existing API Management solution form Monsanto into Bayer's landscape and integrating it with SSO and Identity Processes.
+    - Supported 2 use cases from HR IT and Crop Science to use API proxy and publish the data catalog initiative
+  - designation: Platform Manager (SAP Cloud)
+    start: October 2017
+    end: March December 2018
+    responsibilities:
+    - Integration of SaaS-based predictive maintenance solution (Asset Intelligence Network) into the CropScience ERP system 
+    - Led the tender RfP process outsourcing of entire SAP platform with 4 contestants and an internal team of 10 members (inkl. 1 FTE for PMO). I gathered the requirements for the new hosting platform and brought the RfP up to management decision before final awarding
+    - Management of the global SAP Cloud Platform accounts and support of the SAP Platform Lead Architect
+
+- company:
+    name: IBM Global Business Services
     url: "https://www.example.com"
-    location: Intern Land
-    logo: /images/sections/experiences/company3.jpg
+    location: Düsseldorf, Germany
+    logo: /images/sections/experiences/IBM_01_8-bar-positive.svg
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company2.jpg
+    overview: IBM is a global IT services firm focusing research, IT outsourcing (GTS) and business consulting (GBS) services.
+  positions:
+  - designation: Senior Application Architect (SAP Cloud)
+    start: July 2015
+    end: September 2017
+    responsibilities:
+    - Enterprise Applications, SAP Platform & Technology Practice
+    - Development Lead for a global ERP template (5 FTE, 3M USD budget)
+    - Technical Lead for a B2B solution based on Hana Cloud Platform &
+      Offshore-subproject lead for 6 FTE (Backend, Web, 1M USD
+      budget)
+    - Key Solution Architect for several bid activities
+
+- company:
+    name: BearingPoint GmbH
+    url: "https://www.bearingpoint.com/de-de"
+    location: Düsseldorf, Germany
+    logo: /images/sections/experiences/BearingPoint_Black_RGB.png
+    # Can optionally show a different logo for dark theme
+    darkLogo: /images/sections/experiences/BearingPoint.png
+    overview: A business and IT consulting firm, based out of KPMG Consulting and Anderson Consulting.
+  positions:
+  - designation: Senior Technology Consultant
+    start: 2012
+    end: 2015
+    responsibilities:
+    - Project Lead for a SAP ERP/BW release upgrade and HANA migration project - got promoted to Senior IT Consultant.
+    - Project Management for GRC implementation (Security Weaver)
+    - PMO for a large SAP transformation/carve-out program - got promoted to IT Consultant.
+    - Worked with mainly with manufacturing and utilities clients
+    - Worked on different initiatives in the CoE for SAP HANA    
+    - Started as IT Analyst - worked on SAP NetWeaver and Enterprise Portal / WCMS solutions as internal trainer
+
+- company:
+    name: Vodafone D2 Germany GmbH
+    url: "https://www.vodafone.com"
+    location: Düsseldorf, Germany
+    logo: /images/sections/experiences/vodafone.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company3.jpg
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    overview: Vodafone is a global mobile services provider.
   positions:
   - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+    start: Oct 2008
+    end: Jan 2009
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Worked in the Marketing Department for Consumer Data (MCD) and elaborated on the marketing strategy for young people (under 28)
+    - Supported the Senior Managers in the go live of a hero device and bundled tariff
+    - Worked on lots of sales data usage reporting for a weekly JF through mastering Excel and PowerPoint and ThinkCell

@@ -1,8 +1,8 @@
 # ⚠️ If hosting under a repo path, use full URL (e.g. https://<github_username>.github.io/<repo_name>) or images won’t display correctly
-baseURL: https://hugo-themes.github.io/toha-example-site/
+baseURL: https://phunatix.github.io/portfolio-extended/
 
 languageCode: de
-title: "Olaf Blog and Portfolio"
+title: "Olaf Ngo's Blog and Portfolio"
 
 # Use Hugo modules to add theme
 module:
@@ -26,11 +26,11 @@ languages:
     languageName: English
     title: "Olaf's Blog"
     weight: 1
-  de:
-    languageCode: de
-    languageName: Deutsch
-    title: Olaf Ngo
-    weight: 2
+  # de:
+  #   languageCode: de
+  #   languageName: Deutsch
+  #   title: "Olaf Ngo"
+  #   weight: 2
 # default language for the content
 defaultContentLanguage: en
 
