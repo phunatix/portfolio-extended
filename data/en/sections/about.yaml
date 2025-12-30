@@ -1,0 +1,122 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Senior Cloud Enablement & FinOps Architect 
+# your company information
+company:
+  name: OBI Smart Technologies
+  url: "https://jobs.obi.de/cluster/it-tech"
+
+# your resume. this file path should be relative to you "static" directory
+# Dreprecated. Use resourceLinks instead.
+#resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I am an experienced IT professional and leader with more than 14 years of work experience. I mainly work as Lead Solutions Architect with a passion for Public Cloud, but also assumed consulting roles for SAP cloud solutions. I work with large corporations and medium-sized enterprises helping them to grow their businesses using innovative IT solutions. Digital transformation is more important than ever and I''m here to guide your journey.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "olaf.ngo@ngo.lu"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/phunatix"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/shapingfuture/"
+
+- name: Credly
+  icon: "fab fa-crown"
+  url: "https://www.credly.com/users/shapingfuture/badges#credly"
+
+# You can put custom buttons to link your relevant resources.
+# For example, you can put link for your resume.
+resourceLinks:
+- title: "My Resume"
+  url: "files/CV_Olaf_Ngo.pdf"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+
+- type: certification
+  name: FinOps Certified Practitioner 
+  url: "https://www.credly.com/earner/earned/badge/afbff4cb-fc3b-40c4-a26b-d23f340bf9aa"
+  badge: "https://images.credly.com/size/680x680/images/08a5010a-0c0a-448c-981e-c116fedd380c/image.png"
+
+- type: certification
+  name: FinOps FOCUS Analyst
+  url: "https://www.credly.com/badges/4937be82-dfac-4c75-a374-3e70a93c3dbe"
+  badge: "https://images.credly.com/size/680x680/images/c28f46e1-b0cf-4581-a963-d04db79cd39c/image.png"
+
+
+- type: certification
+  name: Certified Azure Solution Architect Expert 
+  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+  badge: "https://images.credly.com/size/680x680/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png"
+
+
+- type: certification
+  name: GCP Associate Cloud Engineer
+  url: "https://www.credly.com/badges/d0eb7f08-a745-4706-a54c-d74dd5171eb0"
+  badge: "https://images.credly.com/size/680x680/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png"
+
+- type: certification
+  name: "The Open Group Certified: TOGAF® 9 Certified"
+  url: "https://www.credly.com/badges/db4ab355-86a3-4df4-804b-6a85ea51de10"
+  badge: "https://images.credly.com/size/680x680/images/24c75efb-9a99-47f7-ab6d-fcd359534c1e/badge-togaf9-certified.png"
+
+- type: certification
+  name: "Azure DevOps Engineer Expert (AZ400)"
+  url: "https://www.credly.com/badges/767c0008-548b-4d76-a268-bdc3d4d4a79f"
+  badge: "https://images.credly.com/size/680x680/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png"
+
+- type: certification
+  name: "AWS Certified DevOps Engineer – Professional"
+  url: "https://www.credly.com/badges/632b2028-2f7d-4421-ac52-e912f867dc48"
+  badge: "https://images.credly.com/size/680x680/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png"
+
+
+- type: certification
+  name: "AWS Certified Solutions Architect – Professional"
+  url: "https://www.credly.com/badges/12ee7a06-443c-43ff-9b9b-692dde5c495b"
+  badge: "https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png"
+
+
+# - type: certification
+#   name: Artificial Intelligence and Machine Learning
+#   url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
+#   badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+
+# - type: soft-skill-indicator
+#   name: Leadership
+#   percentage: 85
+#   color: blue
+
+# - type: soft-skill-indicator
+#   name: Team Work
+#   percentage: 90
+#   color: yellow
+
+- type: soft-skill-indicator
+  name: Hard Working
+  percentage: 95
+  color: "#FF0000"
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"

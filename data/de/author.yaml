@@ -1,0 +1,22 @@
+# some information about you
+name: "Olaf Ngo"
+nickname: "Olaf Ngo"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hallo, ich bin"
+image: "images/author/avatar.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "olaf@ngo.lu"
+  phone: "+49 221 - 98653228"
+  github: phunatix
+  linkedin: shapingfuture
+  #researchgate: john-doe
+
+# some summary about what you do
+summary:
+  - Ich liebe Cloud        !
+  - Ich liebe FinOps       !
+  - Ich liebe Platform Engineering
+  - Ich liebe multi-cloud
+  - Ich liebe running
+  - Ich liebe homelabs
