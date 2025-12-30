@@ -3,3 +3,4 @@ node_modules/*
 public/*
 .vscode/
 assets/images/sections/.DS_Store
+.DS_Store

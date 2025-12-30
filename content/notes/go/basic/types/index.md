@@ -7,6 +7,7 @@ menu:
     identifier: notes-go-basics-types
     parent: notes-go-basics
     weight: 20
+draft: true
 ---
 <!-- String Type -->
 {{< note title="Strings" >}}

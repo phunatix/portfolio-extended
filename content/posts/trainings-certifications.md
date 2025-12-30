@@ -1,6 +1,11 @@
 ---
 title: "Trainings and Certifications"
 date: 2025-12-25T21:54:27+01:00
+menu:
+  sidebar:
+    name: Trainings & Certifications
+    identifier: trainings-certifications
+    weight: 10
 draft: false
 ---
 
@@ -24,6 +29,10 @@ Below is a list of my Professional Certifications, including their renewals.
 - 2017 · TOGAF 9 Certified (including TOGAF 9 Foundation)
 - 2017 · IBM Associate Project Manager
 - 2017 · PRINCE2 Practitioner (including PRINCE2 Foundation)
+
+- external links: 
+    - [Microsoft Transcript](https://learn.microsoft.com/en-us/users/shapingfuture/transcript/vnml6a5rr6j0znw)
+    - [Credly](https://www.credly.com/users/shapingfuture/badges#credly) 
 
 ## Trainings
 

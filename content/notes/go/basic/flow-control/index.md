@@ -7,6 +7,7 @@ menu:
     identifier: notes-go-basics-flow-control
     parent: notes-go-basics
     weight: 30
+draft: true
 ---
 
 <!-- Condition -->

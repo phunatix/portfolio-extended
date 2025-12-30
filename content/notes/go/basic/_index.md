@@ -7,4 +7,5 @@ menu:
     identifier: notes-go-basics
     parent: notes-go
     weight: 10
+draft: true
 ---

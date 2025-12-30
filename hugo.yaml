@@ -1,5 +1,5 @@
 # ⚠️ If hosting under a repo path, use full URL (e.g. https://<github_username>.github.io/<repo_name>) or images won’t display correctly
-baseURL: https://phunatix.github.io/portfolio-extended/
+baseURL: https://portfolio.cloudpacer.de/
 
 languageCode: de
 title: "Olaf Ngo's Blog and Portfolio"
@@ -71,7 +71,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/phunatix/portfolio-extended/
   # Default branch of your Git repo
   gitBranch: main
 
@@ -118,7 +118,7 @@ params:
 
     # Enable & configure "Notes" features
     notes:
-      enable: true
+      enable: false
 
     # Enable comment feature. There, should be only one of them.
     comment:

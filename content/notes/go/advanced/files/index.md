@@ -7,6 +7,7 @@ menu:
     identifier: notes-go-advanced-files
     parent: notes-go-advanced
     weight: 10
+draft: true
 ---
 
 <!-- Condition -->

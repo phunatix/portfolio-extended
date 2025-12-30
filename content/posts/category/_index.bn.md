@@ -5,4 +5,5 @@ menu:
     name: বিভাগ
     identifier: category
     weight: 20
+draft: true
 ---

@@ -11,6 +11,7 @@ author:
   name: Jessica Jonas
   image: /images/author/jessica.png
 math: true
+draft: true
 ---
 
 এই নমুনা পোস্টটি এই বিষয়গুলো পরীক্ষা করার জন্যে করা হয়েছেঃ

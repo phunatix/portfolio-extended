@@ -7,6 +7,7 @@ menu:
     identifier: notes-go-basics-intro
     parent: notes-go-basics
     weight: 10
+draft: true
 ---
 <!-- A Sample Program -->
 {{< note title="Hello World">}}

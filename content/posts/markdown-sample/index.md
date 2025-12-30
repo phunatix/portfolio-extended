@@ -11,6 +11,7 @@ author:
   name: Olaf
   image: /images/author/avatar.png
 math: true
+draft: true
 ---
 
 This is a sample post intended to test the followings:

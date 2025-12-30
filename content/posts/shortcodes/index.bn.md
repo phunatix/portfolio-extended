@@ -7,6 +7,7 @@ menu:
     name: শর্টকোডের  নমুনা
     identifier: shortcodes
     weight: 40
+draft: true
 ---
 
 এই নমুনা পোস্টটি এই বিষয়গুলো পরীক্ষা করার জন্যে করা হয়েছেঃ
