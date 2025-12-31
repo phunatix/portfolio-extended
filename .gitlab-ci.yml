@@ -2,8 +2,8 @@ image: ghcr.io/gohugoio/hugo:v0.153.5
 default:
   before_script:
     - apk add --update --no-cache git go nodejs npm
-    #- hugo mod tidy
-    #- hugo mod npm pack
+    - hugo mod tidy
+    - hugo mod npm pack
     - npm install 
 
 test:
