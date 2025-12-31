@@ -19,7 +19,7 @@ company:
 #resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am an experienced IT professional and leader with more than 14 years of work experience. I mainly work as Lead Solutions Architect with a passion for Public Cloud, but also assumed consulting roles for SAP cloud solutions. I work with large corporations and medium-sized enterprises helping them to grow their businesses using innovative IT solutions. Digital transformation is more important than ever and I''m here to guide your journey.'
+summary: 'I maximize the ROI of complex multi-cloud architectures by integrating FinOps across the entire engineering lifecycle. With a proven track record of achieving up to 30% cost optimization in previous engagements and leading global transformation programs, I possess the technological and organizational expertise to transform cloud spending from an unpredictable cost center into a highly efficient business driver. As a certified FinOps expert and FOCUS analyst, I create the necessary transparency and governance so that engineering teams can take ownership of costs without sacrificing the speed of innovation.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -37,7 +37,7 @@ socialLinks:
   url: "https://www.linkedin.com/in/shapingfuture/"
 
 - name: Credly
-  icon: "fab fa-crown"
+  icon: "fab fa-certificate"
   url: "https://www.credly.com/users/shapingfuture/badges#credly"
 
 # You can put custom buttons to link your relevant resources.
