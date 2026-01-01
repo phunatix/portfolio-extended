@@ -133,9 +133,9 @@ experiences:
     name: BearingPoint GmbH
     url: "https://www.bearingpoint.com/de-de"
     location: Düsseldorf, Germany
-    logo: /images/sections/experiences/BearingPoint_Black_RGB.png
+    logo: /images/sections/experiences/BearingPoint_201x_logo.png
     # Can optionally show a different logo for dark theme
-    darkLogo: /images/sections/experiences/BearingPoint.png
+    darkLogo: /images/sections/experiences/BearingPoint_201x_logo.png
     overview: A business and IT consulting firm, based out of KPMG Consulting and Anderson Consulting.
   positions:
   - designation: Senior Technology Consultant

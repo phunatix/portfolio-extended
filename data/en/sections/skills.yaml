@@ -19,6 +19,8 @@ buttons:
   filter: "language"
 - name: DevOps
   filter: "devops"
+- name: SAP
+  filter: "sap"
 - name: Others
   filter: "others"
 
@@ -35,12 +37,12 @@ skills:
 
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as Azure, GCP, SAP BTP, AWS, and Aliyun"
+  summary: "Worked with all major public clouds, namely Azure (expert level), AWS (professional level), GCP (associate), SAP BTP (advanced), Oracle Cloud (proficient) and Aliyun (proficient)"
   categories: ["basic"]
 
 - name: IT Architecture
   #logo: /images/sections/skills/git.png
-  summary: "Experienced with designing and executing solution architectures."
+  summary: "Experienced with planning, designing and executing solution architectures across the entire lifecycle. TOGAF and IBM certified."
   categories: ["basic"]
   url: "https://git-scm.com/"
 
@@ -52,7 +54,7 @@ skills:
   url: "https://git-scm.com/"
 
 - name: Dashboarding / Reporting
-#  logo: /images/sections/skills/finops.png
+  logo: /images/sections/skills/reporting.png
   summary: "Building and assembling dashboards for financial reporting using Looker Studio, PowerBI and Apptio BI"
   categories: ["basic"]
 #  url: "https://git-scm.com/"
@@ -76,7 +78,7 @@ skills:
 
 - name: Linux Virtualization
   logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system for servers and container workloads. Capable of managing Linux systems and KVM based hypervisors (e.g. Proxmox)."
+  summary: "KVM/QEMU Virtualization for servers and container workloads. Capable of managing Linux systems and KVM based hypervisors (e.g. Proxmox)."
   categories: ["devops"]
 
 - name: Kubernetes
@@ -88,8 +90,19 @@ skills:
 - name: Git
   logo: /images/sections/skills/git.png
   summary: "Experienced with git-based development with different branching, merging strategies and CI/CD strategies. Mostly, use GitLab. Also, have experience in working with GitLab."
-  categories: ["others"]
+  categories: ["devops"]
   url: "https://git-scm.com/"
+
+- name: SAP BTP Development
+  logo: /images/sections/skills/sap.png
+  summary: "HANA XSJS/XSA and Nodejs development on SAP BTP with Cloud Foundry, HANA SQLScript"
+  categories: ["sap"]
+
+
+- name: SAP Basis
+  logo: /images/sections/skills/sap.png
+  summary: "SAP Security (User Management, ABAP Roles, Cloud IdP, HANA Security Framework)"
+  categories: ["sap"]
 
 # - name: C++
 #   logo: /images/sections/skills/c++.png
@@ -99,25 +112,25 @@ skills:
 
 - name: Vietnamese
   #logo: /images/sections/skills/cloud.png
-  summary: "Mother language"
+  summary: "mother tongue"
   categories: ["language"]
 
 - name: German
   #logo: /images/sections/skills/cloud.png
-  summary: "De-facto mother language as I'm born and grew up in Germany"
+  summary: "de-facto mother tongue"
   categories: ["language"]
 
 - name: English
   #logo: /images/sections/skills/cloud.png
-  summary: "business fluent, worked in many international contexts"
+  summary: "business fluent. Worked in many international contexts"
   categories: ["language"]
 
 - name: Korean
   #logo: /images/sections/skills/cloud.png
-  summary: "Studied Korean in exchange semester. Passed TOPIK level 3 exam (2011)"
+  summary: "via Korean classes and exchange semester. Passed TOPIK level 3 exam (2011)"
   categories: ["language"]
 
 - name: Chinese
   #logo: /images/sections/skills/cloud.png
-  summary: "Learned Mandarin during university and went to Summer School. Passed HSK level 3 exam (2009)"
+  summary: "via Mandarin classes, university and Summer School. Passed HSK level 3 exam (2009)"
   categories: ["language"]
