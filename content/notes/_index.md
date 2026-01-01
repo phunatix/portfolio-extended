@@ -1,5 +1,0 @@
----
-title: Notes
----
-
-Some notes.
